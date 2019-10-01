@@ -21,7 +21,7 @@ def draw_digits(digits):
     for i, ax in enumerate(axes.flat):
         X, y = digits[i]
         ax.imshow(255 - X.reshape(28,28) * 255, cmap='gray')
-        #ax.set_title('{:.0f}'.format(torch.argmax(y).item()))
+        ax.set_title('{:.0f}'.format(y))
 
 def draw_xy(X, y):
     fig, axes = plt.subplots(6, 20, figsize=(18, 7),

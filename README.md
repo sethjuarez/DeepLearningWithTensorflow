@@ -1,11 +1,11 @@
-[![Azure Notebooks](https://notebooks.azure.com/launch.svg)](https://notebooks.azure.com/import/gh/sethjuarez/DeepLearningWithPyTorch)
+[![Azure Notebooks](https://notebooks.azure.com/launch.svg)](https://notebooks.azure.com/import/gh/sethjuarez/DeepLearningWithTensorflow)
 
-# Deep Learning with PyTorch
-This repo is a resource for my Deep Learning with PyTorch talk. It
+# Deep Learning with Tensorflow
+This repo is a resource for my Deep Learning with Tensorflow talk. It
 contains all of the code that was demonstrated as well as the deck.
 
 ## Inspiration
-This talk is inspired by a PyTorch tutorial available [online](https://pytorch.org/tutorials/beginner/pytorch_with_examples.html).
+This talk is inspired by the venerable mnist dataset!
 It is also inspired by a silly nine squares image problem.
 
 ![9 Squares](powerpoint/9squares.png "9 Squares")
@@ -23,16 +23,11 @@ machine learning.
  - cost function
  - optimization method 
 
-### PyTorch
+### Tensorflow
 
  - Tensors
  - DataSets
- - DataLoaders
  - Models
  - Loss (or Cost)
  - Optimization
 
-### Tools
-
- - ONNX
- - Azure Machine Learning service

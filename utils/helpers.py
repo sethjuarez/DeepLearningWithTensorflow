@@ -3,9 +3,6 @@ import time
 import tensorflow as tf
 from functools import wraps
 from inspect import getargspec
-# pylint: disable-msg=E0611
-from tensorflow.python.tools import freeze_graph as freeze
-# pylint: enable-msg=E0611
 
 def info(msg, char = "#", width = 75):
     print("")
