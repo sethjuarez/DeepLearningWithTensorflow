@@ -1,4 +1,4 @@
-[![Azure Notebooks](https://notebooks.azure.com/launch.svg)](https://notebooks.azure.com/import/gh/sethjuarez/DeepLearningWithTensorflow)
+[![Azure Notebooks](https://notebooks.azure.com/launch.svg?WT.mc_id=aiml-0000-sejuare)](https://notebooks.azure.com/import/gh/sethjuarez/DeepLearningWithTensorflow?WT.mc_id=aiml-0000-sejuare)
 
 # Deep Learning with Tensorflow
 This repo is a resource for my Deep Learning with Tensorflow talk. It
